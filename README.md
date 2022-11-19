@@ -32,6 +32,15 @@ Additionally I'd highly recommend selecting the "controlled impedance"
 option with 7628 stackup. The PCIe interface has been routed with that
 stackup in mind.
 
+## Limitations
+
+Currently this board does neither use gold plating nor edge beveling on
+the miniPCIe contact fingers. While good for cost reduction in small
+production runs this is not ideal.  
+When ordering through JLCPCB at the time of writing the PCB would have
+to be adjusted (minimum size 70x70mm) to be able to get beveled edges
+and gold plating.
+
 # Use
 
 The following picture shows two of the adapters installed in an APU2
