@@ -1,0 +1,24 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,22uF,C_0603_1608Metric,50.650000,-74.550000,90.000000,top
+C2,22uF,C_0603_1608Metric,76.750000,-74.675000,90.000000,top
+H1,MountingHole_Pad,MountingHole_3.6mm_small,63.875000,-29.175000,0.000000,top
+H2,MountingHole,ToolingHole_JLCSMT,41.250000,-28.350000,0.000000,top
+H3,MountingHole,ToolingHole_JLCSMT,86.400000,-77.750000,0.000000,top
+H5,Perforation,Perforation_0.4mm,78.850000,-70.550000,0.000000,top
+H6,Perforation,Perforation_0.4mm,48.850000,-70.550000,0.000000,top
+H7,Perforation,Perforation_0.4mm,48.850000,-71.250000,0.000000,top
+H8,Perforation,Perforation_0.4mm,78.850000,-35.200000,0.000000,top
+H9,Perforation,Perforation_0.4mm,48.850000,-36.600000,0.000000,top
+H10,Perforation,Perforation_0.4mm,78.850000,-69.150000,0.000000,top
+H11,Perforation,Perforation_0.4mm,78.850000,-71.250000,0.000000,top
+H12,Perforation,Perforation_0.4mm,48.850000,-69.850000,0.000000,top
+H13,Perforation,Perforation_0.4mm,48.850000,-35.200000,0.000000,top
+H14,Perforation,Perforation_0.4mm,48.850000,-35.900000,0.000000,top
+H15,Perforation,Perforation_0.4mm,78.850000,-34.500000,0.000000,top
+H16,Perforation,Perforation_0.4mm,78.850000,-35.900000,0.000000,top
+H17,Perforation,Perforation_0.4mm,48.850000,-34.500000,0.000000,top
+H18,Perforation,Perforation_0.4mm,78.850000,-69.850000,0.000000,top
+H19,Perforation,Perforation_0.4mm,78.850000,-36.600000,0.000000,top
+H20,Perforation,Perforation_0.4mm,48.850000,-69.150000,0.000000,top
+J1,miniPCIe,mini-PCIe_F1_Full,60.000000,-80.000000,0.000000,top
+J2,Bus_M.2_Socket_M,MDTXXXXXX001,63.880000,-69.425000,180.000000,top
