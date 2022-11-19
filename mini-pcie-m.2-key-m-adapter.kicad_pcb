@@ -572,6 +572,11 @@
       (net 1 "GND") (tstamp 05aed23e-3e1e-40d0-bc5e-48d9e4e5eb22))
     (pad "MP" smd rect locked (at -10.35 -4.5 180) (size 1.2 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (tstamp 80e83355-71fe-4588-9c58-d49d888c7b55))
+    (model "${KIPRJMOD}/lib/C2832351.x3d"
+      (offset (xyz 0 1.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 180))
+    )
   )
 
   (footprint "Perforation:Perforation_0.4mm" (layer "F.Cu")
