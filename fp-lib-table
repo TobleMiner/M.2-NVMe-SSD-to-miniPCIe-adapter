@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "mpcie")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-mini-pci-e/mpcie.pretty")(options "")(descr ""))
+  (lib (name "amphenol-m.2")(type "KiCad")(uri "${KIPRJMOD}/lib/amphenol-m.2.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/ToolingHole.pretty")(options "")(descr ""))
+  (lib (name "MountingHole_small")(type "KiCad")(uri "${KIPRJMOD}/lib/MountingHole_small.pretty")(options "")(descr ""))
+  (lib (name "Perforation")(type "KiCad")(uri "${KIPRJMOD}/lib/Perforation.pretty")(options "")(descr ""))
+)

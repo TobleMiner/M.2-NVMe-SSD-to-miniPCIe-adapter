@@ -1,0 +1,11 @@
+fp-info-cache
+*.log
+_autosave-*
+*-rescue.dcm
+*.bak
+*_jlc*
+*.csv
+/*.zip
+*.xml
+/fab
+mini-pcie-m.2-key-m-adapter

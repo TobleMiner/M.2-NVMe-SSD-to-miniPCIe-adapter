@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP miniPCIe
+D Mini PCI Express Edge Connector
+K mini pcie pci-e pci express edge
+F https://pcisig.com/specifications/pciexpress/base
+$ENDCMP
+#End Doc Library
