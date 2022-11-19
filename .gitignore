@@ -3,9 +3,7 @@ fp-info-cache
 _autosave-*
 *-rescue.dcm
 *.bak
-*_jlc*
-*.csv
+/*.csv
 /*.zip
 *.xml
-/fab
 mini-pcie-m.2-key-m-adapter
