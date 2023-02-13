@@ -27,7 +27,7 @@ I've had good sucess using Samsung PM991 NVMe SSDs.
 # Ordering
 
 The fabrication files inside `fab` are JLCPCB-ready. The board must be
-ordered with a 1.2mm board thickness to fit the miniPCIe slot.  
+ordered with a 1.0mm board thickness to fit the miniPCIe slot.  
 Additionally I'd highly recommend selecting the "controlled impedance"
 option with 7628 stackup. The PCIe interface has been routed with that
 stackup in mind.
